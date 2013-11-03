@@ -222,8 +222,8 @@
 
 The PHP code and CSS style have been developed by (and are property of) Albert Frutos Gonzalo.<br>
 Sabadell (Barcelona), November 2013.<br>
-E-mail: <a href="mailto:albertfg89@gmail.com">albertfg89@gmail.com</a> - Twitter: <a href="http://twitter.com/albertfrutos">@albertfrutos</a>
-LinkedIn: <a href="http://es.linkedin.com/in/albertfrutos/en">Albert Frutos (LinkedIn)</a>
+E-mail: <a target="_blank" href="mailto:albertfg89@gmail.com">albertfg89@gmail.com</a> - Twitter: <a target="_blank" href="http://twitter.com/albertfrutos">@albertfrutos</a>
+LinkedIn: <a target="_blank" href="http://es.linkedin.com/in/albertfrutos/en">Albert Frutos (LinkedIn)</a>
 <br>
 Feel free to use this, but please mention the original developer of the code and CSS style.
 
