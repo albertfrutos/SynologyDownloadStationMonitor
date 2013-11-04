@@ -6,10 +6,8 @@ Synology Download Station Monitor (Albert Frutos Gonzalo - albertfg89@gmail.com)
 * Uses CSS to improve the GUI and HTML 5 for progress bar.                                                          *
 * Uses Javascript to show at which time was the page loaded and automatically refreshes every 3 minutes by default. *
 *                                                                                                                   *
-* The PHP code and CSS style have been developed by (and are property of) Albert Frutos Gonzalo.                    *
+* The PHP code and CSS style have been developed by (and are property of) Albert Frutos.                            *
 * Sabadell (Barcelona), November 2013.                                                                              *
-* E-mail: albertfg89@gmail.com - Twitter: @albertfrutos                                                             *
-* LinkedIn: Albert Frutos - http://es.linkedin.com/in/albertfrutos/en                                               *
 * Feel free to use this, but please mention the original developer of the code and CSS style.                       *
 *********************************************************************************************************************
 
@@ -48,9 +46,7 @@ Synology Download Station Web API (V3) can be found at: http://download.synology
 
 
 *********************************************************************************************************************
-* The PHP code and CSS style have been developed by (and are property of) Albert Frutos Gonzalo.                    *
+* The PHP code and CSS style have been developed by (and are property of) Albert Frutos.                            *
 * Sabadell (Barcelona), November 2013.                                                                              *
-* E-mail: albertfg89@gmail.com - Twitter: @albertfrutos                                                             *
-* LinkedIn: Albert Frutos - http://es.linkedin.com/in/albertfrutos/en                                               *
 * Feel free to use this, but please mention the original developer of the code and CSS style.                       *
 *********************************************************************************************************************
