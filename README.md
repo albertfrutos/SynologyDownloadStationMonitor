@@ -1,4 +1,4 @@
-
+**NOTE**: This was my first "real" project on programming. This worked bakc in 2013 when I created it, but I cannot guarantee it will work nowadays.
 
 Synology Download Station Monitor (Albert Frutos Gonzalo - albertfg89@gmail.com)
 ================================================================================
